@@ -1,0 +1,11 @@
+{
+	"name": "ls_akv_attendance",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://akv-attendance.vault.azure.net/"
+		}
+	}
+}

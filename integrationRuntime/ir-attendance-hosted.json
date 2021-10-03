@@ -1,0 +1,6 @@
+{
+	"name": "ir-attendance-hosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

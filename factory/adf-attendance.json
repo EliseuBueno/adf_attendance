@@ -1,0 +1,9 @@
+{
+	"name": "adf-attendance",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bd5f4ce-195a-4208-932d-86709f2d29b0",
+		"tenantId": "3245bc8a-a3a7-40b4-91dd-408347fc3701"
+	}
+}
